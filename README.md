@@ -1,7 +1,11 @@
 # practica_git
-<<<<<<< HEAD
+Chino_Branch
+Francisco Villafuerte
+=======
+HEAD
 
 Diego Hernando Otálora Barrero -> diego_1987@live.com
 =======
 Pao
->>>>>>> PaoBranch
+PaoBranch
+main
